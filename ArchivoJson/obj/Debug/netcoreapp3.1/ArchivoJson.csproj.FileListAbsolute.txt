@@ -1,0 +1,151 @@
+C:\Users\USUARIO WINDOWS\source\repos\archivojson\archivojson\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\USUARIO WINDOWS\source\repos\archivojson\archivojson\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\USUARIO WINDOWS\source\repos\archivojson\archivojson\bin\Debug\netcoreapp3.1\archivojson.exe
+C:\Users\USUARIO WINDOWS\source\repos\archivojson\archivojson\bin\Debug\netcoreapp3.1\archivojson.deps.json
+C:\Users\USUARIO WINDOWS\source\repos\archivojson\archivojson\bin\Debug\netcoreapp3.1\archivojson.runtimeconfig.json
+C:\Users\USUARIO WINDOWS\source\repos\archivojson\archivojson\bin\Debug\netcoreapp3.1\archivojson.runtimeconfig.dev.json
+C:\Users\USUARIO WINDOWS\source\repos\archivojson\archivojson\bin\Debug\netcoreapp3.1\archivojson.dll
+C:\Users\USUARIO WINDOWS\source\repos\archivojson\archivojson\bin\Debug\netcoreapp3.1\archivojson.pdb
+C:\Users\USUARIO WINDOWS\source\repos\archivojson\archivojson\bin\Debug\netcoreapp3.1\archivojson.Views.dll
+C:\Users\USUARIO WINDOWS\source\repos\archivojson\archivojson\bin\Debug\netcoreapp3.1\archivojson.Views.pdb
+C:\Users\USUARIO WINDOWS\source\repos\archivojson\archivojson\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\USUARIO WINDOWS\source\repos\archivojson\archivojson\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\USUARIO WINDOWS\source\repos\archivojson\archivojson\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+C:\Users\USUARIO WINDOWS\source\repos\archivojson\archivojson\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+C:\Users\USUARIO WINDOWS\source\repos\archivojson\archivojson\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+C:\Users\USUARIO WINDOWS\source\repos\archivojson\archivojson\bin\Debug\netcoreapp3.1\MySql.Data.dll
+C:\Users\USUARIO WINDOWS\source\repos\archivojson\archivojson\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+C:\Users\USUARIO WINDOWS\source\repos\archivojson\archivojson\bin\Debug\netcoreapp3.1\ZstdNet.dll
+C:\Users\USUARIO WINDOWS\source\repos\archivojson\archivojson\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\USUARIO WINDOWS\source\repos\archivojson\archivojson\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\USUARIO WINDOWS\source\repos\archivojson\archivojson\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\USUARIO WINDOWS\source\repos\archivojson\archivojson\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\USUARIO WINDOWS\source\repos\archivojson\archivojson\obj\Debug\netcoreapp3.1\archivojson.csproj.AssemblyReference.cache
+C:\Users\USUARIO WINDOWS\source\repos\archivojson\archivojson\obj\Debug\netcoreapp3.1\archivojson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO WINDOWS\source\repos\archivojson\archivojson\obj\Debug\netcoreapp3.1\archivojson.AssemblyInfoInputs.cache
+C:\Users\USUARIO WINDOWS\source\repos\archivojson\archivojson\obj\Debug\netcoreapp3.1\archivojson.AssemblyInfo.cs
+C:\Users\USUARIO WINDOWS\source\repos\archivojson\archivojson\obj\Debug\netcoreapp3.1\archivojson.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO WINDOWS\source\repos\archivojson\archivojson\obj\Debug\netcoreapp3.1\archivojson.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\USUARIO WINDOWS\source\repos\archivojson\archivojson\obj\Debug\netcoreapp3.1\archivojson.RazorAssemblyInfo.cache
+C:\Users\USUARIO WINDOWS\source\repos\archivojson\archivojson\obj\Debug\netcoreapp3.1\archivojson.RazorAssemblyInfo.cs
+C:\Users\USUARIO WINDOWS\source\repos\archivojson\archivojson\obj\Debug\netcoreapp3.1\staticwebassets\archivojson.StaticWebAssets.Manifest.cache
+C:\Users\USUARIO WINDOWS\source\repos\archivojson\archivojson\obj\Debug\netcoreapp3.1\staticwebassets\archivojson.StaticWebAssets.xml
+C:\Users\USUARIO WINDOWS\source\repos\archivojson\archivojson\obj\Debug\netcoreapp3.1\scopedcss\bundle\archivojson.styles.css
+C:\Users\USUARIO WINDOWS\source\repos\archivojson\archivojson\obj\Debug\netcoreapp3.1\archivojson.TagHelpers.input.cache
+C:\Users\USUARIO WINDOWS\source\repos\archivojson\archivojson\obj\Debug\netcoreapp3.1\archivojson.TagHelpers.output.cache
+C:\Users\USUARIO WINDOWS\source\repos\archivojson\archivojson\obj\Debug\netcoreapp3.1\archivojson.RazorCoreGenerate.cache
+C:\Users\USUARIO WINDOWS\source\repos\archivojson\archivojson\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\USUARIO WINDOWS\source\repos\archivojson\archivojson\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\USUARIO WINDOWS\source\repos\archivojson\archivojson\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\USUARIO WINDOWS\source\repos\archivojson\archivojson\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\USUARIO WINDOWS\source\repos\archivojson\archivojson\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\USUARIO WINDOWS\source\repos\archivojson\archivojson\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\USUARIO WINDOWS\source\repos\archivojson\archivojson\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\USUARIO WINDOWS\source\repos\archivojson\archivojson\obj\Debug\netcoreapp3.1\archivojson.RazorTargetAssemblyInfo.cache
+C:\Users\USUARIO WINDOWS\source\repos\archivojson\archivojson\obj\Debug\netcoreapp3.1\archivojson.RazorTargetAssemblyInfo.cs
+C:\Users\USUARIO WINDOWS\source\repos\archivojson\archivojson\obj\Debug\netcoreapp3.1\archivojson.Views.pdb
+C:\Users\USUARIO WINDOWS\source\repos\archivojson\archivojson\obj\Debug\netcoreapp3.1\archivojson.csproj.CopyComplete
+C:\Users\USUARIO WINDOWS\source\repos\archivojson\archivojson\obj\Debug\netcoreapp3.1\archivojson.dll
+C:\Users\USUARIO WINDOWS\source\repos\archivojson\archivojson\obj\Debug\netcoreapp3.1\archivojson.pdb
+C:\Users\USUARIO WINDOWS\source\repos\archivojson\archivojson\obj\Debug\netcoreapp3.1\archivojson.genruntimeconfig.cache
+C:\Users\SENA\Desktop\ArchivoJson\archivojson\obj\Debug\netcoreapp3.1\archivojson.csprojAssemblyReference.cache
+C:\Users\SENA\Desktop\ArchivoJson\archivojson\obj\Debug\netcoreapp3.1\archivojson.AssemblyInfoInputs.cache
+C:\Users\SENA\Desktop\ArchivoJson\archivojson\obj\Debug\netcoreapp3.1\archivojson.AssemblyInfo.cs
+C:\Users\SENA\Desktop\ArchivoJson\archivojson\obj\Debug\netcoreapp3.1\archivojson.csproj.CoreCompileInputs.cache
+C:\Users\SENA\Desktop\ArchivoJson\archivojson\obj\Debug\netcoreapp3.1\archivojson.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\SENA\Desktop\ArchivoJson\archivojson\obj\Debug\netcoreapp3.1\archivojson.RazorAssemblyInfo.cache
+C:\Users\SENA\Desktop\ArchivoJson\archivojson\obj\Debug\netcoreapp3.1\archivojson.RazorAssemblyInfo.cs
+C:\Users\SENA\Desktop\ArchivoJson\archivojson\obj\Debug\netcoreapp3.1\archivojson.dll
+C:\Users\SENA\Desktop\ArchivoJson\archivojson\obj\Debug\netcoreapp3.1\archivojson.pdb
+C:\Users\SENA\Desktop\ArchivoJson\archivojson\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\SENA\Desktop\ArchivoJson\archivojson\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\SENA\Desktop\ArchivoJson\archivojson\bin\Debug\netcoreapp3.1\libman.json
+C:\Users\SENA\Desktop\ArchivoJson\archivojson\bin\Debug\netcoreapp3.1\archivojson.exe
+C:\Users\SENA\Desktop\ArchivoJson\archivojson\bin\Debug\netcoreapp3.1\archivojson.deps.json
+C:\Users\SENA\Desktop\ArchivoJson\archivojson\bin\Debug\netcoreapp3.1\archivojson.runtimeconfig.json
+C:\Users\SENA\Desktop\ArchivoJson\archivojson\bin\Debug\netcoreapp3.1\archivojson.runtimeconfig.dev.json
+C:\Users\SENA\Desktop\ArchivoJson\archivojson\bin\Debug\netcoreapp3.1\archivojson.dll
+C:\Users\SENA\Desktop\ArchivoJson\archivojson\bin\Debug\netcoreapp3.1\archivojson.pdb
+C:\Users\SENA\Desktop\ArchivoJson\archivojson\bin\Debug\netcoreapp3.1\archivojson.Views.dll
+C:\Users\SENA\Desktop\ArchivoJson\archivojson\bin\Debug\netcoreapp3.1\archivojson.Views.pdb
+C:\Users\SENA\Desktop\ArchivoJson\archivojson\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\SENA\Desktop\ArchivoJson\archivojson\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\SENA\Desktop\ArchivoJson\archivojson\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+C:\Users\SENA\Desktop\ArchivoJson\archivojson\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+C:\Users\SENA\Desktop\ArchivoJson\archivojson\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+C:\Users\SENA\Desktop\ArchivoJson\archivojson\bin\Debug\netcoreapp3.1\MySql.Data.dll
+C:\Users\SENA\Desktop\ArchivoJson\archivojson\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+C:\Users\SENA\Desktop\ArchivoJson\archivojson\bin\Debug\netcoreapp3.1\ZstdNet.dll
+C:\Users\SENA\Desktop\ArchivoJson\archivojson\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\SENA\Desktop\ArchivoJson\archivojson\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\SENA\Desktop\ArchivoJson\archivojson\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\SENA\Desktop\ArchivoJson\archivojson\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\SENA\Desktop\ArchivoJson\archivojson\obj\Debug\netcoreapp3.1\staticwebassets\archivojson.StaticWebAssets.Manifest.cache
+C:\Users\SENA\Desktop\ArchivoJson\archivojson\obj\Debug\netcoreapp3.1\staticwebassets\archivojson.StaticWebAssets.xml
+C:\Users\SENA\Desktop\ArchivoJson\archivojson\obj\Debug\netcoreapp3.1\scopedcss\bundle\archivojson.styles.css
+C:\Users\SENA\Desktop\ArchivoJson\archivojson\obj\Debug\netcoreapp3.1\archivojson.TagHelpers.input.cache
+C:\Users\SENA\Desktop\ArchivoJson\archivojson\obj\Debug\netcoreapp3.1\archivojson.TagHelpers.output.cache
+C:\Users\SENA\Desktop\ArchivoJson\archivojson\obj\Debug\netcoreapp3.1\archivojson.RazorCoreGenerate.cache
+C:\Users\SENA\Desktop\ArchivoJson\archivojson\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\SENA\Desktop\ArchivoJson\archivojson\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\SENA\Desktop\ArchivoJson\archivojson\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\SENA\Desktop\ArchivoJson\archivojson\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\SENA\Desktop\ArchivoJson\archivojson\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\SENA\Desktop\ArchivoJson\archivojson\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\SENA\Desktop\ArchivoJson\archivojson\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\SENA\Desktop\ArchivoJson\archivojson\obj\Debug\netcoreapp3.1\archivojson.RazorTargetAssemblyInfo.cache
+C:\Users\SENA\Desktop\ArchivoJson\archivojson\obj\Debug\netcoreapp3.1\archivojson.RazorTargetAssemblyInfo.cs
+C:\Users\SENA\Desktop\ArchivoJson\archivojson\obj\Debug\netcoreapp3.1\archivojson.Views.pdb
+C:\Users\SENA\Desktop\ArchivoJson\archivojson\obj\Debug\netcoreapp3.1\archivojson.csproj.CopyComplete
+C:\Users\SENA\Desktop\ArchivoJson\archivojson\obj\Debug\netcoreapp3.1\archivojson.genruntimeconfig.cache
+C:\Users\USUARIO WINDOWS\Desktop\ArchivoJson\archivojson\obj\Debug\netcoreapp3.1\archivojson.csproj.AssemblyReference.cache
+C:\Users\USUARIO WINDOWS\Desktop\ArchivoJson\archivojson\obj\Debug\netcoreapp3.1\archivojson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO WINDOWS\Desktop\ArchivoJson\archivojson\obj\Debug\netcoreapp3.1\archivojson.AssemblyInfoInputs.cache
+C:\Users\USUARIO WINDOWS\Desktop\ArchivoJson\archivojson\obj\Debug\netcoreapp3.1\archivojson.AssemblyInfo.cs
+C:\Users\USUARIO WINDOWS\Desktop\ArchivoJson\archivojson\obj\Debug\netcoreapp3.1\archivojson.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO WINDOWS\Desktop\ArchivoJson\archivojson\obj\Debug\netcoreapp3.1\archivojson.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\USUARIO WINDOWS\Desktop\ArchivoJson\archivojson\obj\Debug\netcoreapp3.1\archivojson.RazorAssemblyInfo.cache
+C:\Users\USUARIO WINDOWS\Desktop\ArchivoJson\archivojson\obj\Debug\netcoreapp3.1\archivojson.RazorAssemblyInfo.cs
+C:\Users\USUARIO WINDOWS\Desktop\ArchivoJson\archivojson\obj\Debug\netcoreapp3.1\archivojson.dll
+C:\Users\USUARIO WINDOWS\Desktop\ArchivoJson\archivojson\obj\Debug\netcoreapp3.1\archivojson.pdb
+C:\Users\USUARIO WINDOWS\Desktop\ArchivoJson\archivojson\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\USUARIO WINDOWS\Desktop\ArchivoJson\archivojson\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\USUARIO WINDOWS\Desktop\ArchivoJson\archivojson\bin\Debug\netcoreapp3.1\libman.json
+C:\Users\USUARIO WINDOWS\Desktop\ArchivoJson\archivojson\bin\Debug\netcoreapp3.1\archivojson.exe
+C:\Users\USUARIO WINDOWS\Desktop\ArchivoJson\archivojson\bin\Debug\netcoreapp3.1\archivojson.deps.json
+C:\Users\USUARIO WINDOWS\Desktop\ArchivoJson\archivojson\bin\Debug\netcoreapp3.1\archivojson.runtimeconfig.json
+C:\Users\USUARIO WINDOWS\Desktop\ArchivoJson\archivojson\bin\Debug\netcoreapp3.1\archivojson.runtimeconfig.dev.json
+C:\Users\USUARIO WINDOWS\Desktop\ArchivoJson\archivojson\bin\Debug\netcoreapp3.1\archivojson.dll
+C:\Users\USUARIO WINDOWS\Desktop\ArchivoJson\archivojson\bin\Debug\netcoreapp3.1\archivojson.pdb
+C:\Users\USUARIO WINDOWS\Desktop\ArchivoJson\archivojson\bin\Debug\netcoreapp3.1\archivojson.Views.dll
+C:\Users\USUARIO WINDOWS\Desktop\ArchivoJson\archivojson\bin\Debug\netcoreapp3.1\archivojson.Views.pdb
+C:\Users\USUARIO WINDOWS\Desktop\ArchivoJson\archivojson\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\USUARIO WINDOWS\Desktop\ArchivoJson\archivojson\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\USUARIO WINDOWS\Desktop\ArchivoJson\archivojson\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+C:\Users\USUARIO WINDOWS\Desktop\ArchivoJson\archivojson\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+C:\Users\USUARIO WINDOWS\Desktop\ArchivoJson\archivojson\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+C:\Users\USUARIO WINDOWS\Desktop\ArchivoJson\archivojson\bin\Debug\netcoreapp3.1\MySql.Data.dll
+C:\Users\USUARIO WINDOWS\Desktop\ArchivoJson\archivojson\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+C:\Users\USUARIO WINDOWS\Desktop\ArchivoJson\archivojson\bin\Debug\netcoreapp3.1\ZstdNet.dll
+C:\Users\USUARIO WINDOWS\Desktop\ArchivoJson\archivojson\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\USUARIO WINDOWS\Desktop\ArchivoJson\archivojson\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\USUARIO WINDOWS\Desktop\ArchivoJson\archivojson\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\USUARIO WINDOWS\Desktop\ArchivoJson\archivojson\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\USUARIO WINDOWS\Desktop\ArchivoJson\archivojson\obj\Debug\netcoreapp3.1\staticwebassets\archivojson.StaticWebAssets.Manifest.cache
+C:\Users\USUARIO WINDOWS\Desktop\ArchivoJson\archivojson\obj\Debug\netcoreapp3.1\staticwebassets\archivojson.StaticWebAssets.xml
+C:\Users\USUARIO WINDOWS\Desktop\ArchivoJson\archivojson\obj\Debug\netcoreapp3.1\scopedcss\bundle\archivojson.styles.css
+C:\Users\USUARIO WINDOWS\Desktop\ArchivoJson\archivojson\obj\Debug\netcoreapp3.1\archivojson.TagHelpers.input.cache
+C:\Users\USUARIO WINDOWS\Desktop\ArchivoJson\archivojson\obj\Debug\netcoreapp3.1\archivojson.TagHelpers.output.cache
+C:\Users\USUARIO WINDOWS\Desktop\ArchivoJson\archivojson\obj\Debug\netcoreapp3.1\archivojson.RazorCoreGenerate.cache
+C:\Users\USUARIO WINDOWS\Desktop\ArchivoJson\archivojson\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\USUARIO WINDOWS\Desktop\ArchivoJson\archivojson\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\USUARIO WINDOWS\Desktop\ArchivoJson\archivojson\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\USUARIO WINDOWS\Desktop\ArchivoJson\archivojson\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\USUARIO WINDOWS\Desktop\ArchivoJson\archivojson\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\USUARIO WINDOWS\Desktop\ArchivoJson\archivojson\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\USUARIO WINDOWS\Desktop\ArchivoJson\archivojson\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\USUARIO WINDOWS\Desktop\ArchivoJson\archivojson\obj\Debug\netcoreapp3.1\archivojson.RazorTargetAssemblyInfo.cache
+C:\Users\USUARIO WINDOWS\Desktop\ArchivoJson\archivojson\obj\Debug\netcoreapp3.1\archivojson.RazorTargetAssemblyInfo.cs
+C:\Users\USUARIO WINDOWS\Desktop\ArchivoJson\archivojson\obj\Debug\netcoreapp3.1\archivojson.Views.pdb
+C:\Users\USUARIO WINDOWS\Desktop\ArchivoJson\archivojson\obj\Debug\netcoreapp3.1\archivojson.csproj.CopyComplete
+C:\Users\USUARIO WINDOWS\Desktop\ArchivoJson\archivojson\obj\Debug\netcoreapp3.1\archivojson.genruntimeconfig.cache
